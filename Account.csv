@@ -1,0 +1,5 @@
+account_id,user_id,account_type,account_name,balance,credit limit,interest_rate,due_date
+1001,101,Chequings,Sublime chequings,4900,,,
+1002,101,Savings,Savings,137890.68,,2.99%,
+1003,101,Credit,Sublime Mastercard,-1790,5000,19.99%,7/25/2025
+1004,101,Loan,Sublime Nova Loan,-11000,15000,5.35%,8/1/2025

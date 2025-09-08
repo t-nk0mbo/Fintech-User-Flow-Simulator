@@ -1,0 +1,25 @@
+transaction_id,account_id,date,vendor,amount,balance after
+T01,1001,1-Jun-25,payment,300,300
+T02,1001,2-Jun-25,payment,75,375
+T03,1001,3-Jun-25,payment,780,1155
+T04,1001,4-Jun-25,DoorDash,-200,955
+T05,1001,5-Jun-25,payment,90,1045
+T06,1001,6-Jun-25,payment,340,1385
+T07,1001,7-Jun-25,payment,600,1985
+T08,1001,8-Jun-25,Nobu,-1100,885
+T09,1001,9-Jun-25,payment,90,975
+T10,1001,10-Jun-25,payment,420,1395
+T11,1001,11-Jun-25,Amazon.com,-30,1365
+T12,1001,12-Jun-25,payment,790,2155
+T13,1001,13-Jun-25,payment,250,2405
+T14,1001,14-Jun-25,payment,120,2525
+T15,1001,15-Jun-25,DoorDash,-200,2325
+T16,1001,16-Jun-25,payment,345,2670
+T17,1001,17-Jun-25,payment,1200,3870
+T18,1001,18-Jun-25,payment,340,4210
+T19,1001,19-Jun-25,payment,310,4520
+T20,1001,20-Jun-25,DoorDash,-230,4290
+T21,1001,21-Jun-25,payment,90,4380
+T22,1001,22-Jun-25,payment,460,4840
+T23,1001,23-Jun-25,DoorDash,-200,4640
+T24,1001,24-Jun-25,payment,260,4900
